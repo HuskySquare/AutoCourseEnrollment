@@ -6,6 +6,10 @@ This is a very "rough draft" version of the tool. I never planned on putting thi
 
 
 ## How to use
+Make sure you have python3 and selenium installed. If you don't have selenium, do 
+```
+pip install selenium
+```
 
 Go into save_cookie.py and replace username and password with your own acorn username and password (Line 16-17). Before runnning, you should make sure that you have chrome installed and the chromedriver supports your current chrome version. After running this, your login cookie will be saved. 
 
