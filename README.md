@@ -1,5 +1,5 @@
 # AutoCourseEnrollment
-A tool for UofT students to enroll in courses without having to wake up early or strange times 
+A tool for UofT students to enroll in courses without having to wake up early
 
 ## About this tool
 This is a very "rough draft" version of the tool. I never planned on putting this in a public repo because of the potential breach on University guidelines. This repo will most likely be deleted or updated in some way very soon.
