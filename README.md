@@ -20,6 +20,6 @@ Then, all you need to is to keep main.py running. Alternatively, you can estimat
  ```
 Replace 10s with the number of seconds until course enrollment time starts
 
-Make sure you leave your pc running this program at night before going to sleep. Input the courses you want to enroll in courses.txt, note that this should be the full course code.  Make sure your power settings does not shutdown or sleep the pc before course enrollment time starts.
+Make sure you leave your pc running this program at night before going to sleep. Add all your courses to the enrollment cart before hand Make sure your power settings does not shutdown or sleep the pc before course enrollment time starts.
 
 No support for the specific section yet, the recommendation is that you only use this tool for the courses that you know are going to be full before you wake up.
